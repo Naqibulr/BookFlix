@@ -1,2 +1,2 @@
 # BookFlix
-This project aims to create an IMDb-like platform for books.
+This project aims to create an IMDb-like platform for books, where users can find information, ratings, and reviews for their favorite books. The platform will have a  database of books, including popular titles, bestsellers, classics, etc. Users will be able to rate and review books and create personalized reading lists. The goal of this project is to provide book lovers with a centralized platform to discover, discuss, and share their love of reading.
